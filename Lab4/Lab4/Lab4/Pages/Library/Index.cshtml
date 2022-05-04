@@ -1,0 +1,55 @@
+﻿@page
+@model Lab4.Pages.Library.IndexModel
+@{
+}
+
+<br />
+<div class="container row p-0 m-0">
+    <div class="col-9">
+        <h2>Customer list</h2>
+    </div>
+    <div class="col-3">
+        <a asp-page="/Library/Add" class="btn btn-info form-control text-white">Create a new customer</a>
+    </div>
+
+
+    <div class="col-12 border p-3 mt-3">
+        <form method="post">
+            @if (Model.Customers.Count() > 0)
+            {
+                <table class="table table-striped border">
+                    <tr class="table-secondary">
+                        <th>Name</th>
+                        <th>Age</th>
+                        <th>Mobile Number</th>
+                        <th>Settings</th>
+                    </tr>
+                    @foreach (var item in Model.Customers)
+                    {
+                        <tr>
+                            <td>
+                                @Html.DisplayFor(m => item.Name)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(m => item.Age)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(m => item.MobileNumber)
+                                
+                            </td>
+                            <td>
+                                <a asp-page="/Library/Edit" asp-route-id="@item.CustomerId" class="btn btn-link">Edit</a>
+                                <a asp-page="/Library/Detail" asp-route-id="@item.CustomerId" class="btn btn-link">Details</a>
+                                <a asp-page="/Library/Delete" asp-route-id="@item.CustomerId" class="btn btn-link">Delete</a>
+                            </td>
+                        </tr>
+                    }
+                </table>
+            }
+            else
+            {
+                <p>No customers available.</p>
+            }
+        </form>
+    </div>
+</div>

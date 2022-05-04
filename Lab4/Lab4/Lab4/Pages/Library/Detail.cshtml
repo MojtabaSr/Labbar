@@ -1,0 +1,57 @@
+﻿@page "{id}"
+@model Lab4.Pages.Library.DetailModel
+
+<br />
+    <div class="col-9">
+        <h2>Customer detail</h2>
+    </div>
+
+<div class="col">
+<br />
+<dl class="row">
+    <dt class="col-sm-3">Name</dt>
+        <dd class="col-sm-9">@Model.Customer.Name</dd>
+
+    <dt class="col-sm-3">Mobile Number</dt>
+        <dd class="col-sm-9">@Model.Customer.MobileNumber</dd>
+
+    <dt class="col-sm-3">Age</dt>
+        <dd class="col-sm-9">@Model.Customer.Age</dd>
+</dl>
+
+</div>
+
+
+<div class="col-9">
+    <h4 class="text-info">Loan information</h4>
+</div>
+<div class="col">
+
+    <table class="table table-striped border">
+        <tr class="table-secondary">
+            <th>Title</th>
+            <th>Author</th>
+            <th>Status</th>
+        </tr>
+
+        @foreach(var item in Model.Books)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(x=>item.Title)
+                </td>
+                <td>
+                    @Html.DisplayFor(x=>item.Author)
+                </td>
+                <td>
+                    @Html.DisplayFor(x=>item.Status)
+                </td>
+
+            </tr>
+        }
+
+
+    </table>
+
+
+</div>
