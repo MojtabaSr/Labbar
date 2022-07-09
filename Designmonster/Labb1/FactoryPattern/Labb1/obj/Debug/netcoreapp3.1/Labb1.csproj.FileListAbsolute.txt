@@ -1,0 +1,14 @@
+D:\Edugrade\Designmönster\Labb1\Labb1\bin\Debug\netcoreapp3.1\Labb1.exe
+D:\Edugrade\Designmönster\Labb1\Labb1\bin\Debug\netcoreapp3.1\Labb1.deps.json
+D:\Edugrade\Designmönster\Labb1\Labb1\bin\Debug\netcoreapp3.1\Labb1.runtimeconfig.json
+D:\Edugrade\Designmönster\Labb1\Labb1\bin\Debug\netcoreapp3.1\Labb1.runtimeconfig.dev.json
+D:\Edugrade\Designmönster\Labb1\Labb1\bin\Debug\netcoreapp3.1\Labb1.dll
+D:\Edugrade\Designmönster\Labb1\Labb1\bin\Debug\netcoreapp3.1\Labb1.pdb
+D:\Edugrade\Designmönster\Labb1\Labb1\obj\Debug\netcoreapp3.1\Labb1.csproj.AssemblyReference.cache
+D:\Edugrade\Designmönster\Labb1\Labb1\obj\Debug\netcoreapp3.1\Labb1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Edugrade\Designmönster\Labb1\Labb1\obj\Debug\netcoreapp3.1\Labb1.AssemblyInfoInputs.cache
+D:\Edugrade\Designmönster\Labb1\Labb1\obj\Debug\netcoreapp3.1\Labb1.AssemblyInfo.cs
+D:\Edugrade\Designmönster\Labb1\Labb1\obj\Debug\netcoreapp3.1\Labb1.csproj.CoreCompileInputs.cache
+D:\Edugrade\Designmönster\Labb1\Labb1\obj\Debug\netcoreapp3.1\Labb1.dll
+D:\Edugrade\Designmönster\Labb1\Labb1\obj\Debug\netcoreapp3.1\Labb1.pdb
+D:\Edugrade\Designmönster\Labb1\Labb1\obj\Debug\netcoreapp3.1\Labb1.genruntimeconfig.cache

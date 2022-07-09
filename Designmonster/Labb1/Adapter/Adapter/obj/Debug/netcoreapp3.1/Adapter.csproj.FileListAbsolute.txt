@@ -1,0 +1,14 @@
+D:\Edugrade\Designmönster\Labb1\Adapter\Adapter\bin\Debug\netcoreapp3.1\Adapter.exe
+D:\Edugrade\Designmönster\Labb1\Adapter\Adapter\bin\Debug\netcoreapp3.1\Adapter.deps.json
+D:\Edugrade\Designmönster\Labb1\Adapter\Adapter\bin\Debug\netcoreapp3.1\Adapter.runtimeconfig.json
+D:\Edugrade\Designmönster\Labb1\Adapter\Adapter\bin\Debug\netcoreapp3.1\Adapter.runtimeconfig.dev.json
+D:\Edugrade\Designmönster\Labb1\Adapter\Adapter\bin\Debug\netcoreapp3.1\Adapter.dll
+D:\Edugrade\Designmönster\Labb1\Adapter\Adapter\bin\Debug\netcoreapp3.1\Adapter.pdb
+D:\Edugrade\Designmönster\Labb1\Adapter\Adapter\obj\Debug\netcoreapp3.1\Adapter.csproj.AssemblyReference.cache
+D:\Edugrade\Designmönster\Labb1\Adapter\Adapter\obj\Debug\netcoreapp3.1\Adapter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Edugrade\Designmönster\Labb1\Adapter\Adapter\obj\Debug\netcoreapp3.1\Adapter.AssemblyInfoInputs.cache
+D:\Edugrade\Designmönster\Labb1\Adapter\Adapter\obj\Debug\netcoreapp3.1\Adapter.AssemblyInfo.cs
+D:\Edugrade\Designmönster\Labb1\Adapter\Adapter\obj\Debug\netcoreapp3.1\Adapter.csproj.CoreCompileInputs.cache
+D:\Edugrade\Designmönster\Labb1\Adapter\Adapter\obj\Debug\netcoreapp3.1\Adapter.dll
+D:\Edugrade\Designmönster\Labb1\Adapter\Adapter\obj\Debug\netcoreapp3.1\Adapter.pdb
+D:\Edugrade\Designmönster\Labb1\Adapter\Adapter\obj\Debug\netcoreapp3.1\Adapter.genruntimeconfig.cache

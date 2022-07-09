@@ -1,0 +1,14 @@
+D:\Edugrade\Designmönster\Labb1\Labb1\bin\Debug\netcoreapp3.1\Factory_Pattern.exe
+D:\Edugrade\Designmönster\Labb1\Labb1\bin\Debug\netcoreapp3.1\Factory_Pattern.deps.json
+D:\Edugrade\Designmönster\Labb1\Labb1\bin\Debug\netcoreapp3.1\Factory_Pattern.runtimeconfig.json
+D:\Edugrade\Designmönster\Labb1\Labb1\bin\Debug\netcoreapp3.1\Factory_Pattern.runtimeconfig.dev.json
+D:\Edugrade\Designmönster\Labb1\Labb1\bin\Debug\netcoreapp3.1\Factory_Pattern.dll
+D:\Edugrade\Designmönster\Labb1\Labb1\bin\Debug\netcoreapp3.1\Factory_Pattern.pdb
+D:\Edugrade\Designmönster\Labb1\Labb1\obj\Debug\netcoreapp3.1\Factory_Pattern.csproj.AssemblyReference.cache
+D:\Edugrade\Designmönster\Labb1\Labb1\obj\Debug\netcoreapp3.1\Factory_Pattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Edugrade\Designmönster\Labb1\Labb1\obj\Debug\netcoreapp3.1\Factory_Pattern.AssemblyInfoInputs.cache
+D:\Edugrade\Designmönster\Labb1\Labb1\obj\Debug\netcoreapp3.1\Factory_Pattern.AssemblyInfo.cs
+D:\Edugrade\Designmönster\Labb1\Labb1\obj\Debug\netcoreapp3.1\Factory_Pattern.csproj.CoreCompileInputs.cache
+D:\Edugrade\Designmönster\Labb1\Labb1\obj\Debug\netcoreapp3.1\Factory_Pattern.dll
+D:\Edugrade\Designmönster\Labb1\Labb1\obj\Debug\netcoreapp3.1\Factory_Pattern.pdb
+D:\Edugrade\Designmönster\Labb1\Labb1\obj\Debug\netcoreapp3.1\Factory_Pattern.genruntimeconfig.cache

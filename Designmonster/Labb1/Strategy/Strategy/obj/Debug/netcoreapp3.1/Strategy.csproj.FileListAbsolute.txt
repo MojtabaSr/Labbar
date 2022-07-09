@@ -1,0 +1,14 @@
+D:\Edugrade\Designmönster\Labb1\Strategy\Strategy\bin\Debug\netcoreapp3.1\Strategy.exe
+D:\Edugrade\Designmönster\Labb1\Strategy\Strategy\bin\Debug\netcoreapp3.1\Strategy.deps.json
+D:\Edugrade\Designmönster\Labb1\Strategy\Strategy\bin\Debug\netcoreapp3.1\Strategy.runtimeconfig.json
+D:\Edugrade\Designmönster\Labb1\Strategy\Strategy\bin\Debug\netcoreapp3.1\Strategy.runtimeconfig.dev.json
+D:\Edugrade\Designmönster\Labb1\Strategy\Strategy\bin\Debug\netcoreapp3.1\Strategy.dll
+D:\Edugrade\Designmönster\Labb1\Strategy\Strategy\bin\Debug\netcoreapp3.1\Strategy.pdb
+D:\Edugrade\Designmönster\Labb1\Strategy\Strategy\obj\Debug\netcoreapp3.1\Strategy.csproj.AssemblyReference.cache
+D:\Edugrade\Designmönster\Labb1\Strategy\Strategy\obj\Debug\netcoreapp3.1\Strategy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Edugrade\Designmönster\Labb1\Strategy\Strategy\obj\Debug\netcoreapp3.1\Strategy.AssemblyInfoInputs.cache
+D:\Edugrade\Designmönster\Labb1\Strategy\Strategy\obj\Debug\netcoreapp3.1\Strategy.AssemblyInfo.cs
+D:\Edugrade\Designmönster\Labb1\Strategy\Strategy\obj\Debug\netcoreapp3.1\Strategy.csproj.CoreCompileInputs.cache
+D:\Edugrade\Designmönster\Labb1\Strategy\Strategy\obj\Debug\netcoreapp3.1\Strategy.dll
+D:\Edugrade\Designmönster\Labb1\Strategy\Strategy\obj\Debug\netcoreapp3.1\Strategy.pdb
+D:\Edugrade\Designmönster\Labb1\Strategy\Strategy\obj\Debug\netcoreapp3.1\Strategy.genruntimeconfig.cache
