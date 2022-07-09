@@ -1,0 +1,14 @@
+D:\Edugrade\Designmönster\Labb3\VarmDrinkStation\VarmDrinkStation\bin\Debug\netcoreapp3.1\VarmDrinkStation.exe
+D:\Edugrade\Designmönster\Labb3\VarmDrinkStation\VarmDrinkStation\bin\Debug\netcoreapp3.1\VarmDrinkStation.deps.json
+D:\Edugrade\Designmönster\Labb3\VarmDrinkStation\VarmDrinkStation\bin\Debug\netcoreapp3.1\VarmDrinkStation.runtimeconfig.json
+D:\Edugrade\Designmönster\Labb3\VarmDrinkStation\VarmDrinkStation\bin\Debug\netcoreapp3.1\VarmDrinkStation.runtimeconfig.dev.json
+D:\Edugrade\Designmönster\Labb3\VarmDrinkStation\VarmDrinkStation\bin\Debug\netcoreapp3.1\VarmDrinkStation.dll
+D:\Edugrade\Designmönster\Labb3\VarmDrinkStation\VarmDrinkStation\bin\Debug\netcoreapp3.1\VarmDrinkStation.pdb
+D:\Edugrade\Designmönster\Labb3\VarmDrinkStation\VarmDrinkStation\obj\Debug\netcoreapp3.1\VarmDrinkStation.csproj.AssemblyReference.cache
+D:\Edugrade\Designmönster\Labb3\VarmDrinkStation\VarmDrinkStation\obj\Debug\netcoreapp3.1\VarmDrinkStation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Edugrade\Designmönster\Labb3\VarmDrinkStation\VarmDrinkStation\obj\Debug\netcoreapp3.1\VarmDrinkStation.AssemblyInfoInputs.cache
+D:\Edugrade\Designmönster\Labb3\VarmDrinkStation\VarmDrinkStation\obj\Debug\netcoreapp3.1\VarmDrinkStation.AssemblyInfo.cs
+D:\Edugrade\Designmönster\Labb3\VarmDrinkStation\VarmDrinkStation\obj\Debug\netcoreapp3.1\VarmDrinkStation.csproj.CoreCompileInputs.cache
+D:\Edugrade\Designmönster\Labb3\VarmDrinkStation\VarmDrinkStation\obj\Debug\netcoreapp3.1\VarmDrinkStation.dll
+D:\Edugrade\Designmönster\Labb3\VarmDrinkStation\VarmDrinkStation\obj\Debug\netcoreapp3.1\VarmDrinkStation.pdb
+D:\Edugrade\Designmönster\Labb3\VarmDrinkStation\VarmDrinkStation\obj\Debug\netcoreapp3.1\VarmDrinkStation.genruntimeconfig.cache
